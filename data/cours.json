@@ -1,0 +1,12 @@
+[
+  {"id":"CL-L1","intitule":"Circuits Logiques","volume_horaire":4,"type":"tronc_commun","promotion":"L1"},
+  {"id":"MATH-L1","intitule":"Mathématiques Discrètes","volume_horaire":4,"type":"tronc_commun","promotion":"L1"},
+  {"id":"PROG-L1","intitule":"Programmation C","volume_horaire":4,"type":"tronc_commun","promotion":"L1"},
+  {"id":"ALGO-L2","intitule":"Algorithmique Avancée","volume_horaire":4,"type":"tronc_commun","promotion":"L2"},
+  {"id":"BD-L2","intitule":"Bases de Données","volume_horaire":4,"type":"tronc_commun","promotion":"L2"},
+  {"id":"RESEAU-L2","intitule":"Réseaux Informatiques","volume_horaire":4,"type":"tronc_commun","promotion":"L2"},
+  {"id":"SO-L3","intitule":"Systèmes d'Exploitation","volume_horaire":4,"type":"tronc_commun","promotion":"L3"},
+  {"id":"WEB-L3","intitule":"Programmation Web PHP","volume_horaire":4,"type":"tronc_commun","promotion":"L3"},
+  {"id":"GL-L4","intitule":"Génie Logiciel","volume_horaire":4,"type":"tronc_commun","promotion":"L4"},
+  {"id":"IA-L4","intitule":"Intelligence Artificielle","volume_horaire":4,"type":"tronc_commun","promotion":"L4"}
+]

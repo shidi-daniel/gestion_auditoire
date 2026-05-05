@@ -1,0 +1,21 @@
+PLANNING HEBDOMADAIRE — SGA · UPC/FCI 2025-2026
+=======================================================
+
+Lundi :
+  08h00-12h00 | AUD-L1       | L1              | CL-L1
+  13h00-17h00 | AUD-L1       | L1              | MATH-L1
+  08h00-12h00 | AUD-L2       | L2              | ALGO-L2
+  13h00-17h00 | AUD-L2       | L2              | BD-L2
+  08h00-12h00 | AUD-L3       | L3              | SO-L3
+  13h00-17h00 | AUD-L3       | L3              | WEB-L3
+  08h00-12h00 | AUD-L4       | L4              | GL-L4
+  13h00-17h00 | AUD-L4       | L4              | IA-L4
+  08h00-12h00 | SALLE-MGT    | OPT-SECU        | OPT-SECU
+  08h00-12h00 | SALLE-MACH   | OPT-IL          | OPT-IL
+  13h00-17h00 | SALLE-MGT    | OPT-DATA        | OPT-DATA
+  13h00-17h00 | SALLE-MACH   | OPT-ROBO        | OPT-ROBO
+
+Mardi :
+  08h00-12h00 | AUD-L1       | L1              | PROG-L1
+  08h00-12h00 | AUD-L2       | L2              | RESEAU-L2
+  08h00-12h00 | AUD-L3       | OPT-EMB         | OPT-EMB

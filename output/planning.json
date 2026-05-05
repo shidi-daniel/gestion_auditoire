@@ -1,0 +1,156 @@
+{
+    "Lundi": [
+        {
+            "id_cours": "CL-L1",
+            "id_groupe": "L1",
+            "id_salle": "AUD-L1",
+            "heure_debut": 8,
+            "heure_fin": 12,
+            "jour": "Lundi",
+            "effectif": 110,
+            "type": "tronc_commun"
+        },
+        {
+            "id_cours": "MATH-L1",
+            "id_groupe": "L1",
+            "id_salle": "AUD-L1",
+            "heure_debut": 13,
+            "heure_fin": 17,
+            "jour": "Lundi",
+            "effectif": 110,
+            "type": "tronc_commun"
+        },
+        {
+            "id_cours": "ALGO-L2",
+            "id_groupe": "L2",
+            "id_salle": "AUD-L2",
+            "heure_debut": 8,
+            "heure_fin": 12,
+            "jour": "Lundi",
+            "effectif": 95,
+            "type": "tronc_commun"
+        },
+        {
+            "id_cours": "BD-L2",
+            "id_groupe": "L2",
+            "id_salle": "AUD-L2",
+            "heure_debut": 13,
+            "heure_fin": 17,
+            "jour": "Lundi",
+            "effectif": 95,
+            "type": "tronc_commun"
+        },
+        {
+            "id_cours": "SO-L3",
+            "id_groupe": "L3",
+            "id_salle": "AUD-L3",
+            "heure_debut": 8,
+            "heure_fin": 12,
+            "jour": "Lundi",
+            "effectif": 75,
+            "type": "tronc_commun"
+        },
+        {
+            "id_cours": "WEB-L3",
+            "id_groupe": "L3",
+            "id_salle": "AUD-L3",
+            "heure_debut": 13,
+            "heure_fin": 17,
+            "jour": "Lundi",
+            "effectif": 75,
+            "type": "tronc_commun"
+        },
+        {
+            "id_cours": "GL-L4",
+            "id_groupe": "L4",
+            "id_salle": "AUD-L4",
+            "heure_debut": 8,
+            "heure_fin": 12,
+            "jour": "Lundi",
+            "effectif": 55,
+            "type": "tronc_commun"
+        },
+        {
+            "id_cours": "IA-L4",
+            "id_groupe": "L4",
+            "id_salle": "AUD-L4",
+            "heure_debut": 13,
+            "heure_fin": 17,
+            "jour": "Lundi",
+            "effectif": 55,
+            "type": "tronc_commun"
+        },
+        {
+            "id_cours": "OPT-SECU",
+            "id_groupe": "OPT-SECU",
+            "id_salle": "SALLE-MGT",
+            "heure_debut": 8,
+            "heure_fin": 12,
+            "jour": "Lundi",
+            "effectif": 25,
+            "type": "option"
+        },
+        {
+            "id_cours": "OPT-IL",
+            "id_groupe": "OPT-IL",
+            "id_salle": "SALLE-MACH",
+            "heure_debut": 8,
+            "heure_fin": 12,
+            "jour": "Lundi",
+            "effectif": 25,
+            "type": "option"
+        },
+        {
+            "id_cours": "OPT-DATA",
+            "id_groupe": "OPT-DATA",
+            "id_salle": "SALLE-MGT",
+            "heure_debut": 13,
+            "heure_fin": 17,
+            "jour": "Lundi",
+            "effectif": 20,
+            "type": "option"
+        },
+        {
+            "id_cours": "OPT-ROBO",
+            "id_groupe": "OPT-ROBO",
+            "id_salle": "SALLE-MACH",
+            "heure_debut": 13,
+            "heure_fin": 17,
+            "jour": "Lundi",
+            "effectif": 18,
+            "type": "option"
+        }
+    ],
+    "Mardi": [
+        {
+            "id_cours": "PROG-L1",
+            "id_groupe": "L1",
+            "id_salle": "AUD-L1",
+            "heure_debut": 8,
+            "heure_fin": 12,
+            "jour": "Mardi",
+            "effectif": 110,
+            "type": "tronc_commun"
+        },
+        {
+            "id_cours": "RESEAU-L2",
+            "id_groupe": "L2",
+            "id_salle": "AUD-L2",
+            "heure_debut": 8,
+            "heure_fin": 12,
+            "jour": "Mardi",
+            "effectif": 95,
+            "type": "tronc_commun"
+        },
+        {
+            "id_cours": "OPT-EMB",
+            "id_groupe": "OPT-EMB",
+            "id_salle": "AUD-L3",
+            "heure_debut": 8,
+            "heure_fin": 12,
+            "jour": "Mardi",
+            "effectif": 17,
+            "type": "option"
+        }
+    ]
+}

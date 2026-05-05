@@ -1,0 +1,20 @@
+RAPPORT D'OCCUPATION DES SALLES — SGA · UPC/FCI 2025-2026
+============================================================
+
+Salle : Auditoire principal – Licence 1 (AUD-L1)
+  Occupés : 3 | Libres : 7 | Taux : 30%
+
+Salle : Auditoire principal – Licence 2 (AUD-L2)
+  Occupés : 3 | Libres : 7 | Taux : 30%
+
+Salle : Auditoire principal – Licence 3 (AUD-L3)
+  Occupés : 3 | Libres : 7 | Taux : 30%
+
+Salle : Auditoire principal – Licence 4 (AUD-L4)
+  Occupés : 2 | Libres : 8 | Taux : 20%
+
+Salle : Salle de machines (TP informatiques) (SALLE-MACH)
+  Occupés : 2 | Libres : 8 | Taux : 20%
+
+Salle : Salle de management & marketing (SALLE-MGT)
+  Occupés : 2 | Libres : 8 | Taux : 20%
